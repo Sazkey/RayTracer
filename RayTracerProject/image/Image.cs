@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace RayTracerProject.image;
+﻿namespace RayTracerProject.image;
 
 public class Image
 {

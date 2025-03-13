@@ -19,5 +19,4 @@ for (int i = 0; i < exampleImage.Rows; i++)
 
 PpmImage pixels = new PpmImage(exampleImage);
 
-
 File.WriteAllText(@"D:\RiderProjects\RayTracerProject\RayTracerProject\artifacts\ababa.ppm", pixels.ToString());
