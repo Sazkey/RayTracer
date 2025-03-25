@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="Draw2DCircle.cs" />
+      <Content Include="Draw2DCircle.cs" />
+    </ItemGroup>
+
 </Project>
