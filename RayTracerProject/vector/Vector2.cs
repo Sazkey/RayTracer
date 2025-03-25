@@ -1,4 +1,4 @@
-﻿namespace RayTracerProject.image;
+﻿namespace RayTracerProject.vector;
 
 public class Vector2(int x, int y)
 {

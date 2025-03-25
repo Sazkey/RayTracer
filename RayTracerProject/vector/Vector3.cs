@@ -1,4 +1,4 @@
-﻿namespace RayTracerProject.image;
+﻿namespace RayTracerProject.vector;
 
 public class Vector3(double x, double y, double z)
 {
