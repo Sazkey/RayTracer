@@ -21,7 +21,7 @@ public class PpmImage
         {
             for (var j = 0; j < _image.Columns; j++)
             {
-                result.Append(_image.Pixels[i, j]);
+                result.Append(_image.Pixel[i, j]);
             }
         }
         return result.ToString();
